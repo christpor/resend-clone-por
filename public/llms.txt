@@ -1,0 +1,7 @@
+# Resend
+> Email for developers. The best way to reach humans instead of spam folders. Deliver transactional and marketing emails at scale.
+
+## Documentation
+- API Reference: https://resend.com/docs/api-reference
+- SDKs: Node.js, Python, Ruby, Go, Rust, Java, Elixir, PHP
+- React Email: Components and templates for crafting modern HTML emails

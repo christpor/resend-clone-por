@@ -9,6 +9,10 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        serif: ["DomaineDisplay", "Georgia", "serif"],
+        mono: ["CommitMono", "monospace"],
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
